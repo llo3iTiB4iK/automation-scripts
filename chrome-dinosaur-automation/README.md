@@ -50,6 +50,9 @@ pip install pyautogui Pillow
 python main.py
 ```
 
+> ![Dinosaur Automation Gif](https://github.com/user-attachments/assets/4617943e-7262-45a5-84a7-59700e87b9bf)
+
+
 4. The bot will automatically start playing the game.
 
 ---
